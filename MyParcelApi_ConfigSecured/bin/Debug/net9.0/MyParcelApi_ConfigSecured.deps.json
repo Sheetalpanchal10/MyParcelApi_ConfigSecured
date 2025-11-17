@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyParcelApi_ConfigSecured/1.0.0": {
+        "runtime": {
+          "MyParcelApi_ConfigSecured.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyParcelApi_ConfigSecured/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
